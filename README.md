@@ -4,6 +4,7 @@ The technologies used to make this project happen:
   * create-react-app (https://github.com/facebook/create-react-app)
   * Tachyons (https://tachyons.io/)
   * JSON Place Holder API (https://jsonplaceholder.typicode.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
